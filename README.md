@@ -4,7 +4,7 @@ A comprehensive computer vision project that reconstructs 3D models of historica
 
 ## 🎬 Live Demo
 
-![Live Recording](Reconstruction recording deployed.mp4)
+![Live Recording](demo.gif)
 
 ## 👥 Authors
 
